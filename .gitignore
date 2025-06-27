@@ -1,0 +1,18 @@
+# Ignore PyCharm config
+.idea/
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore trial/experimental scripts
+docs/RRF_backup.py
+docs/RRF_TRIAL.py
+docs/trial_screen_detection.py
+
+# Ignore version 2 simulations
+simulations/s02_rotating_reference_frame_V02.py
+simulations/s03_resonant_excitation_V02.py
