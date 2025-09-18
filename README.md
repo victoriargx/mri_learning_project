@@ -1,6 +1,6 @@
 # MRI Learning Simulations with VPython
 
-This repository contains a collection of MRI-related simulations derived from original educational scripts developed by Frederik Laun and Victoria Rincon (University Hospital Erlangen) as part of the Magnetic Resonance Imaging 1 (MRI1) course at the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). These simulations have been adapted for local execution using desktop VPython.
+This repository contains a collection of MRI-related simulations derived from original educational scripts developed by Victoria Rincon and Frederik Laun (University Hospital Erlangen) as part of the Magnetic Resonance Imaging 1 (MRI1) course at the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). These simulations have been adapted for local execution using desktop VPython.
 
 
 >The current version is maintained by Victoria Rincon and aims to facilitate local desktop execution of the original simulations. It also serves as a base for continuous improvement of the existing MRI-related simulations and for the development of new ones, while remaining fully dedicated to open, non-commercial educational use.
@@ -65,7 +65,7 @@ The full collection of original Web VPython scripts can be found [here](https://
 ---
 ## License
 
-This repository contains adaptations of educational scripts originally developed by **Frederik Laun** and **Victoria Rincon** for the *Magnetic Resonance Imaging 1 (MRI1)* course at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**.
+This repository contains adaptations of educational scripts originally developed by **Victoria Rincon** and **Frederik Laun** for the *Magnetic Resonance Imaging 1 (MRI1)* course at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**.
 
 This repository is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.  
 
